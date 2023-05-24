@@ -1,0 +1,1 @@
+<a herf="buatgambar.php">tekan link pendaftaran siswa baru smk!</a>
